@@ -1,0 +1,14 @@
+C:\Users\Malishko\source\repos\Викторина\Викторина\bin\Debug\net8.0\Викторина.exe
+C:\Users\Malishko\source\repos\Викторина\Викторина\bin\Debug\net8.0\Викторина.deps.json
+C:\Users\Malishko\source\repos\Викторина\Викторина\bin\Debug\net8.0\Викторина.runtimeconfig.json
+C:\Users\Malishko\source\repos\Викторина\Викторина\bin\Debug\net8.0\Викторина.dll
+C:\Users\Malishko\source\repos\Викторина\Викторина\bin\Debug\net8.0\Викторина.pdb
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.AssemblyInfoInputs.cache
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.AssemblyInfo.cs
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.csproj.CoreCompileInputs.cache
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.dll
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\refint\Викторина.dll
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.pdb
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\Викторина.genruntimeconfig.cache
+C:\Users\Malishko\source\repos\Викторина\Викторина\obj\Debug\net8.0\ref\Викторина.dll
